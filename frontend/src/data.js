@@ -1,0 +1,50 @@
+const data = {
+  products: [
+    {
+      name: "Nike Slim shirt",
+      slug: "nike-slim-shirt",
+      category: "shirts",
+      image: "/images/p1.jpg",
+      price: 120,
+      countInStock: 10,
+      rating: 4.5,
+      numReviews: 10,
+      description: "high quality shirt",
+    },
+    {
+      name: "Addidas Slim shirt",
+      slug: "addidas-slim-shirt",
+      category: "shirts",
+      image: "/images/p2.jpg",
+      price: 120,
+      countInStock: 10,
+      rating: 4.5,
+      numReviews: 10,
+      description: "high quality shirt",
+    },
+    {
+      name: "Hollister Slim shirt",
+      slug: "hollister-slim-shirt",
+      category: "shirts",
+      image: "/images/p3.jpg",
+      price: 120,
+      countInStock: 10,
+      rating: 4.5,
+      numReviews: 10,
+      description: "high quality shirt",
+    },
+    {
+      name: "Nikes Slim shirt",
+      slug: "nikes-slim-shirt",
+      category: "shirts",
+      image: "/images/p4.jpg",
+      price: 120,
+      countInStock: 10,
+      rating: 4.5,
+      numReviews: 10,
+      description: "high quality shirt",
+    },
+  ],
+};
+
+export default data;
