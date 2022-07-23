@@ -17,7 +17,7 @@ const data = {
       category: "shirts",
       image: "/images/p2.jpg",
       price: 120,
-      countInStock: 10,
+      countInStock: 0,
       rating: 4.5,
       numReviews: 10,
       description: "high quality shirt",
